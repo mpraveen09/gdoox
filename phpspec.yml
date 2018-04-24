@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Gdoox
+        psr4_prefix: Gdoox
+        src_path: app

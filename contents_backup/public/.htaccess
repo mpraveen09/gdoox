@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+
+RewriteCond $1 !^(home)
+RewriteCond $1 !^(rockmongo)
+RewriteCond $1 !^(try)
+RewriteCond $1 !^(demo)
+	
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
+
+#RewriteCond %{HTTP_HOST} ^www\.gdoox\.com [NC]
+#RewriteRule ^(.*)$ http://gdoox.com/$1 [L,R=301]
+
+</IfModule>

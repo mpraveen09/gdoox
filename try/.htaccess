@@ -1,0 +1,11 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+	RewriteCond $1 !^(home)
+	RewriteCond $1 !^(rockmongo)
+	RewriteCond $1 !^(phpmyadmin)
+	
+	RewriteCond %{REQUEST_URI} !^public
+    RewriteRule ^(.*)$ public/$1 [L]
+
+</IfModule>

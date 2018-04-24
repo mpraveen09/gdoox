@@ -1,0 +1,65 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 3rd August, 2015
+    Author     : sanjay
+*/
+.col-md-4 > img {
+    width: 100%;
+}
+.verify_busi {
+  position: relative
+ }
+.active img {
+    width: 50%;
+}
+.verify_busi .actions{
+    position: absolute;
+    right: 10px;
+   top: 5px;
+    z-index: 2;
+ }
+.verify_busi {
+  position: relative
+}
+.verify_busi .actions {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    z-index: 2;
+}
+.social-link-wrapper i.zmdi.zmdi-hc-fw {
+  font-size: 20px;
+  color: #F44336;
+}
+.product_promo_banner_color {
+  width: 25px;
+  height: 25px;
+}
+.page-top-links {
+}
+.block-header >h2 {
+  display: inline-block;
+}
+
+.prod_cat_sub_new  li:hover {
+    cursor: pointer
+}
+.prod_cat_sub_new  li.active {
+    color: #26B99A;
+}
+
+.prod_cat_sub{
+    /*background: #d3d3d3*/
+}
+
+.main-menu > li > a {
+    color: #1d6b0b;
+}
+
+.main-menu > li > a:hover {
+    color: #00b300;
+}

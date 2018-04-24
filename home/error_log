@@ -1,0 +1,17 @@
+[23-Jul-2016 19:14:20 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[23-Jul-2016 19:14:20 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[23-Jul-2016 19:14:20 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[23-Jul-2016 19:14:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[24-Jul-2016 17:10:51 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[24-Jul-2016 17:10:51 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[24-Jul-2016 17:10:51 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[24-Jul-2016 17:10:51 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[01-Aug-2016 17:37:33 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/gdooxadmin/public_html/wp-includes/class-wp-xmlrpc-server.php on line 580
+[08-Aug-2016 12:38:21 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[08-Aug-2016 12:38:21 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[08-Aug-2016 12:38:21 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[08-Aug-2016 12:38:21 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[10-Aug-2016 06:29:53 UTC] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[10-Aug-2016 06:29:53 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[10-Aug-2016 06:29:53 UTC] PHP Warning:  require(ABSPATHwp-includes/load.php): failed to open stream: No such file or directory in /home/gdooxadmin/public_html/wp-settings.php on line 21
+[10-Aug-2016 06:29:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/load.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/gdooxadmin/public_html/wp-settings.php on line 21

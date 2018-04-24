@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+
+	RewriteCond $1 !^(home)
+	RewriteCond $1 !^(rockmongo)
+	RewriteCond $1 !^(phpmyadmin)
+	RewriteCond $1 !^(try)
+	RewriteCond $1 !^(demo)	
+	
+	RewriteCond %{REQUEST_URI} !^public
+	RewriteRule ^(.*)$ public/$1 [L]
+
+#RewriteCond %{HTTP_HOST} ^www\.gdoox\.com [NC]
+#RewriteRule ^(.*)$ http://gdoox.com/$1 [L,R=301]
+
+</IfModule>

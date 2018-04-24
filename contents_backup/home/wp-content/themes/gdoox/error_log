@@ -1,0 +1,9 @@
+[29-Jul-2016 03:03:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/404.php on line 1
+[05-Aug-2016 19:34:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/functions.php on line 2
+[06-Aug-2016 01:19:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/functions.php on line 2
+[07-Aug-2016 21:14:21 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/header.php on line 11
+[07-Aug-2016 21:14:22 UTC] PHP Fatal error:  Call to undefined function kyma_theme_options() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/footer.php on line 1
+[07-Aug-2016 21:14:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/404.php on line 1
+[10-Aug-2016 06:29:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/functions.php on line 2
+[11-Aug-2016 10:02:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/functions.php on line 2
+[25-Oct-2016 16:12:09 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gdooxadmin/public_html/wp-content/themes/gdoox/404.php on line 1
